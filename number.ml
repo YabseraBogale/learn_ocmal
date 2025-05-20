@@ -1,0 +1,3 @@
+let x:int = 3;;
+
+print_int x
