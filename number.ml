@@ -1,3 +1,6 @@
 let x:int = 3;;
 
-print_int x
+let y:float=3.0;;
+
+print_float y;;
+print_endline ;;
